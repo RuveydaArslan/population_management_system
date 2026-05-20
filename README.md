@@ -123,4 +123,4 @@ mingw32-make
 
 ## 👩‍💻 Geliştirici
 
-Bu proje, **Programlama Dilleri Prensipleri** dersi kapsamında geliştirilmiştir.
+Bu proje, **Programlama Dillerinin Prensipleri** dersi kapsamında geliştirilmiştir.
