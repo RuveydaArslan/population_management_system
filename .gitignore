@@ -1,0 +1,4 @@
+bin/
+lib/*.o
+*.exe
+*.pdf
